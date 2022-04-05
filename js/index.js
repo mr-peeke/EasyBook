@@ -41,6 +41,7 @@ $(document).ready(function(){
         }
         // console.log();
         // console.log($('#inputPassword').val());
+        //comment by piyush
         event.preventDefault();
     });
     $('#go-to-reg').on('click',function(event){
